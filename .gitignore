@@ -1,0 +1,5 @@
+*.dcp
+*.jou
+*.log
+vivado_out/
+.Xil/
